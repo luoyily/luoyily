@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm LuoYi 👋
 
 <!--
 **luoyily/luoyily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🍰 Studying
+
+- 机器学习
+- 数据分析
+
+#### 🍨Research
+
+- JS 逆向
+- Android 逆向
+- 爬虫
+- Web前端（0 %）
+- Windows 逆向（0 %）
+
+#### 🍙Interests
+
+- 编曲
+- 绘画
+- galgame
+
+![](https://github-readme-stats.vercel.app/api?username=luoyily)
