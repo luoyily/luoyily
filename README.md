@@ -19,19 +19,23 @@ Here are some ideas to get you started:
 
 - 机器学习
 - 数据分析
+- CV
+- NLP(2%)
 
 #### 🍨Research
 
 - JS 逆向
 - Android 逆向
 - 爬虫
-- Web前端（0 %）
-- Windows 逆向（0 %）
+- Web前端（1 %）
+- Windows 逆向（2 %）
 
 #### 🍙Interests
 
 - 编曲
 - 绘画
 - galgame
+
+*100%代表达到了普通水平，且能根据实际场景下运用它。
 
 ![](https://github-readme-stats.vercel.app/api?username=luoyily)
