@@ -18,17 +18,22 @@ Here are some ideas to get you started:
 #### 🍰 Studying
 
 - 机器学习
+- 深度学习
 - 数据分析
 - CV
 - NLP(2%)
+
 
 #### 🍨Research
 
 - JS 逆向
 - Android 逆向
 - 爬虫
-- Web前端（1 %）
+- Web前端（2 %）
 - Windows 逆向（2 %）
+- 自动音乐转录(Auto Music Transcription)
+- 音乐信息检索(Music Information Retriveal)
+- 深度学习应用开发
 
 #### 🍙Interests
 
