@@ -17,30 +17,31 @@ Here are some ideas to get you started:
 
 #### 🍰 Studying
 
-- 机器学习
-- 深度学习
-- 数据分析
-- CV
-- NLP(2%)
+- Machine learning
+- Deep learning
+- Computer Vision
 
 
 #### 🍨Research
 
-- JS 逆向
-- Android 逆向
-- 爬虫
-- Web前端（2 %）
-- Windows 逆向（2 %）
-- 自动音乐转录(Auto Music Transcription)
-- 音乐信息检索(Music Information Retriveal)
-- 深度学习应用开发
+Inactive：
+
+- JS reverse
+- Android reverse
+- Web crawler
+
+Currently：
+- Web front end
+- Windows reverse
+- Auto Music Transcription
+- Music Information Retriveal
+- Super-resolution
 
 #### 🍙Interests
 
-- 编曲
-- 绘画
+- Music Arrangement
+- Illustration
 - galgame
 
-*100%代表达到了普通水平，且能根据实际场景下运用它。
 
 ![](https://github-readme-stats.vercel.app/api?username=luoyily)
